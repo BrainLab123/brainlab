@@ -2,7 +2,8 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GD42GQTKZH2XIVHPMQI37XHS6NI3FFMF55KGZSQCPVHPGAXTWAIJHWLE"
+"GD42GQTKZH2XIVHPMQI37XHS6NI3FFMF55KGZSQCPVHPGAXTWAIJHWLE",
+"GDLYXSH3RZWWJMRQD3M642PIEMNVSU6Q5KO35Z4753ZS5PWLD3H65O42"
 ]
 VERSION="2.2.1"
 
@@ -23,6 +24,18 @@ name="Alzheimer’s Token"
 desc="Yearly, there are approximately 10 million new cases of Alzheimer’s Disease. Dementia has significant social and economic implications in terms of direct medical and social care costs, and the cost of informal care. The ADT revenue will fund the establishment of hardware needed for database construction and the ML framework development."
 conditions="Every research and drug development starts with revision of peer-reviewed published data. It takes months to gather information on a single specific topic. We supply our partners with databases of experimental and clinical results on neurodegenerative diseases, thus speeding up the process of developing novel diagnostic tools and drug discovery."
 image="https://i.ibb.co/SQ8RcFp/creiermozg.png"
+fixed_number=5000000
+max_number=5000000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="PDT"
+issuer="GDLYXSH3RZWWJMRQD3M642PIEMNVSU6Q5KO35Z4753ZS5PWLD3H65O42"
+anchor_asset="false"
+name="Parkinson’s Token"
+desc="An estimated 7 to 10 million people worldwide have Parkinson’s disease. Someone is diagnosed with Parkinson’s every hour in the U.K. Most are 50 or older and rely on family, friends, or neighbors for assistance. The PDT earnings will help with the improvement of our Machine Learning engine as well as for charity foundations."
+conditions="Every research and drug development starts with revision of peer-reviewed published data. It takes months to gather information on a single specific topic. We supply our partners with databases of experimental and clinical results on neurodegenerative diseases, thus speeding up the process of developing novel diagnostic tools and drug discovery."
+image="https://i.ibb.co/sg9kVrf/Group-19.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
