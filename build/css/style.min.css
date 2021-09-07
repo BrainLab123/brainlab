@@ -314,7 +314,7 @@ button {
     border: 1px solid #458ff6;
     padding: 20px 10px 50px 20px;
     max-width: 340px;
-    max-height: 380px;
+    max-height: 450px;
     border-radius: 20px;
     margin-left: 50px
 }
@@ -610,7 +610,7 @@ button {
     box-shadow: 5px 20px 30px rgba(0, 0, 0, .25);
     border-radius: 30px;
     padding: 20px 30px;
-    height: 350px
+    height: 360px
 }
 
 .roadmap .swiper .swiper-pagination {
