@@ -109,7 +109,7 @@ button {
 
 .header .header-container .header-nav .header-list .header-item .header-link {
     font-size: 18px;
-    line-height: 23px;
+    line-height: 10px;
     color: #1f1534;
     opacity: .5
 }
@@ -879,7 +879,7 @@ button {
         align-items: flex-start;
         padding-left: 50px;
         z-index: 2;
-        padding-top: 95px
+        padding-top: 90px
     }
     .header .header-container .header-nav .header-list.active {
         right: 0
