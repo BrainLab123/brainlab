@@ -3,7 +3,8 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GD42GQTKZH2XIVHPMQI37XHS6NI3FFMF55KGZSQCPVHPGAXTWAIJHWLE",
-"GDLYXSH3RZWWJMRQD3M642PIEMNVSU6Q5KO35Z4753ZS5PWLD3H65O42"
+"GDLYXSH3RZWWJMRQD3M642PIEMNVSU6Q5KO35Z4753ZS5PWLD3H65O42",
+"GB7DNVGZ37VUHZFBCSZ73X6D5B27W6VYNKQCNWLOEHHON6PD6KKC7WTG"
 ]
 VERSION="2.2.1"
 
@@ -38,4 +39,16 @@ conditions="Every research and drug development starts with revision of peer-rev
 image="https://i.ibb.co/sg9kVrf/Group-19.png"
 fixed_number=5000000
 max_number=5000000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="MBED"
+issuer="GB7DNVGZ37VUHZFBCSZ73X6D5B27W6VYNKQCNWLOEHHON6PD6KKC7WTG"
+anchor_asset="false"
+name="Med Bed"
+desc="Med Bed technology has been “suppressed” and hidden from the public for a long, long time. Fortunately, due to the planetary shift from 3D to 5D happening at this time, and the increasing demand for transparency by the human collective consciousness, an increasing number of courageous people are coming forward to disclose what they know has been hidden for decades, even centuries, and most likely for thousands of years."
+conditions="The Med Bed looks at the body and corrects imperfections. The Technology has been around for quite some time. It’s not something out of the clear blue sky. It’s just been kept hidden from the human race for a very long time."
+image="https://i.ibb.co/YdVJ2Hy/Group-42.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
