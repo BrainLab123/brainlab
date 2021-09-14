@@ -1306,7 +1306,8 @@ button {
         -webkit-box-orient: vertical;
         -webkit-box-direction: reverse;
         -ms-flex-direction: column-reverse;
-        flex-direction: column-reverse
+        flex-direction: column-reverse;
+        align-items: center
     }
     .alzheimer .alzheimer-body .alzheimer-info .alzheimer-token_body .token-info .token-img img {
         width: 60%;
