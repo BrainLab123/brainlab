@@ -504,6 +504,11 @@ button {
     color: #63b8f2
 }
 
+.alzheimer .alzheimer-body .alzheimer-img img{
+    width: 715px;
+    height: 715px
+}
+
 .alzheimer1 {
     background: #e8f5fd;
     padding: 30px 0 65px;
