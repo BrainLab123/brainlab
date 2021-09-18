@@ -4,7 +4,8 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 ACCOUNTS=[
 "GD42GQTKZH2XIVHPMQI37XHS6NI3FFMF55KGZSQCPVHPGAXTWAIJHWLE",
 "GDLYXSH3RZWWJMRQD3M642PIEMNVSU6Q5KO35Z4753ZS5PWLD3H65O42",
-"GB7DNVGZ37VUHZFBCSZ73X6D5B27W6VYNKQCNWLOEHHON6PD6KKC7WTG"
+"GB7DNVGZ37VUHZFBCSZ73X6D5B27W6VYNKQCNWLOEHHON6PD6KKC7WTG",
+"GBO47SSLWGVK5RQS275KFQ5U7N5ZS6SPEMHHT4D7J5KWTJ6GIKFZJHFN"
 ]
 VERSION="2.2.1"
 
@@ -49,6 +50,18 @@ name="Med Bed"
 desc="Med Bed technology has been “suppressed” and hidden from the public for a long, long time. Fortunately, due to the planetary shift from 3D to 5D happening at this time, and the increasing demand for transparency by the human collective consciousness, an increasing number of courageous people are coming forward to disclose what they know has been hidden for decades, even centuries, and most likely for thousands of years."
 conditions="The Med Bed looks at the body and corrects imperfections. The Technology has been around for quite some time. It’s not something out of the clear blue sky. It’s just been kept hidden from the human race for a very long time."
 image="https://i.ibb.co/YdVJ2Hy/Group-42.png"
+fixed_number=10000000
+max_number=10000000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="NOVAX"
+issuer="GBO47SSLWGVK5RQS275KFQ5U7N5ZS6SPEMHHT4D7J5KWTJ6GIKFZJHFN"
+anchor_asset="false"
+name="Anti Vaccine"
+desc="Anti Vaccine is a revolutionary token created to help the "Anti Vaccine" movement financially and morally. Vaccines are a really delicate topic these days. The freedom to choose to get vaccinated with the new underdeveloped anti-COVID vaccines should not be forced by the government. NOVAX has a vested interest in supporting the people's struggle against government vaccination laws. It's aimed at the propagation of freedom and also fighting against corruption in the government influenced by Big Pharma."
+conditions="The Anti-vaccine token serves as a protest against governmental interference and forced vaccination.  Additionally, a part of the revenue will be used to help out those who were forcefully vaccinated and suffered severe adverse effects. We fight for our freedom."
+image="https://i.ibb.co/DWvCbHJ/Group-224.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
