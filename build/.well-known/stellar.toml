@@ -5,7 +5,8 @@ ACCOUNTS=[
 "GD42GQTKZH2XIVHPMQI37XHS6NI3FFMF55KGZSQCPVHPGAXTWAIJHWLE",
 "GDLYXSH3RZWWJMRQD3M642PIEMNVSU6Q5KO35Z4753ZS5PWLD3H65O42",
 "GB7DNVGZ37VUHZFBCSZ73X6D5B27W6VYNKQCNWLOEHHON6PD6KKC7WTG",
-"GBO47SSLWGVK5RQS275KFQ5U7N5ZS6SPEMHHT4D7J5KWTJ6GIKFZJHFN"
+"GBO47SSLWGVK5RQS275KFQ5U7N5ZS6SPEMHHT4D7J5KWTJ6GIKFZJHFN",
+"GAEJBX5YHJQTTRKNCQRF6QP26RX6BIGP7GRZCXD555ZHC7FUVIBCIUGB"
 ]
 VERSION="2.2.1"
 
@@ -64,4 +65,16 @@ conditions="The Anti-vaccine token serves as a protest against governmental inte
 image="https://i.ibb.co/DWvCbHJ/Group-224.png"
 fixed_number=10000000
 max_number=10000000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="NST"
+issuer="GAEJBX5YHJQTTRKNCQRF6QP26RX6BIGP7GRZCXD555ZHC7FUVIBCIUGB"
+anchor_asset="false"
+name="Neuro Sense"
+desc="There are 86 Billion neurons in your brain which send and receive information. Neurons are interconnected through synapses, through which the processed information is transmitted. The neurons communicate using electric signals. We can record electrical signals in the brain by placing electrodes near the neurons to quantify action potentials. There are neurons in the brain that carry information about everything we see, feel, touch, or think. We are developing a robotic system for insertion into the brain, which can help in the transmission of the neural electric signals in case of damage or disease."
+conditions="The Neuro Sense Technology would work like a brain prosthetic to those in need. People suffering from hearing or loss, paralysis, seizures, etc. would compensate the disease with this novel technology."
+image="https://i.ibb.co/CwpJM2K/Group-228.png"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
